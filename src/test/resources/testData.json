@@ -1,0 +1,11 @@
+{
+  "url": "https://vk.com/",
+  "apiUrl": "https://api.vk.com/method/",
+  "user": {
+    "id": "",
+    "username": "",
+    "login": "",
+    "password": "",
+    "token": ""
+  }
+}
